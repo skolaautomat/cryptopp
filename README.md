@@ -1,0 +1,1 @@
+A CryptoPP fork with a cloned SHA256 class called SHA256T to play with variations,check, and compare the security impact. It is practical for playing with different number of rounds and constants. Hopefully you will find a faster way to mine Bitcoins. Good luck!
